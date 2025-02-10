@@ -1,3 +1,4 @@
+7 - Feb 2025
 As a beginner, I have started to learn reverse engineering, to make cheats, to improve security and improve my skills.
 For this, I am using various tools such as Ghidra, cheat engine, and a few programming languages. 
 Here, I will try and document my journey of learning reverse engineering.
@@ -5,3 +6,10 @@ For Day one, I learnt basics of cheat engine, and learnt to scan, modify and mon
 Here, my test subject was an abandoned game, Need For Speed: Most Wanted from the year 2005.
 Using this, one can modify things such as Cash, Bounty, etc.
 This was done on 7th February 2025. This report will be updated regularly.
+
+
+
+Date - 9 Feb 2025
+We had the event, so we it was tiring. Over the last two days, I have been expanding more on Ghidra.
+I used a basic cheat exe as a case study, finding out pointers, to create a better cheat.
+From that, I learnt more on Assembly, Ghidra, and a bit of x64 dbg
